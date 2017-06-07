@@ -3,4 +3,4 @@ graphic-export.ipynb
 dwp.ipynb
 .ipynb_checkpoints/
 *.pyc
-
+.~lock*
