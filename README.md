@@ -1,4 +1,4 @@
-# California electricity capacity analysis
+# california-electricity-capacity-analysis
 
 By [Ryan Menezes](mailto:ryan.menezes@latimes.com) and [Ben Welsh](mailto:ben.welsh@latimes.com)
 
